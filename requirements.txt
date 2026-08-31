@@ -1,0 +1,13 @@
+Language        : Python 3.8 or Higher
+IDE             : VS Code / PyCharm / Jupyter Notebook
+Libraries       : 
+                  - opencv-python >= 4.5.0
+                  - numpy >= 1.21.0
+Operating System: Windows 10 / 11, Linux, MacOS
+
+
+Processor       : Intel i3 or Higher / Any AMD Processor
+RAM             : 4 GB Minimum, 8 GB Recommended
+Camera          : Built-in Webcam or External USB Webcam 720p
+Storage         : 100 MB Free Space
+Graphics        : Integrated Graphics Card
